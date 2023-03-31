@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://pasek108.github.io/ResultsSummaryComponent/)
+- Solution URL: [https://github.com/Pasek108/ResultsSummaryComponent/](https://github.com/Pasek108/ResultsSummaryComponent/)
+- Live Site URL: [https://pasek108.github.io/ResultsSummaryComponent/](https://pasek108.github.io/ResultsSummaryComponent/)
 
 ### Built with
 
@@ -36,5 +36,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Artur Pas](https://pas-artur.000webhostapp.com)
 - Frontend Mentor - [@Pasek108](https://www.frontendmentor.io/profile/Pasek108)
