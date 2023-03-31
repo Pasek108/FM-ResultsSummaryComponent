@@ -187,6 +187,8 @@ button:hover {
   .result,
   .summary {
     width: 100%;
+    padding-left: 2rem;
+    margin-left: 0;
     border-top-right-radius: 0;
     border-top-left-radius: 0;
   }
