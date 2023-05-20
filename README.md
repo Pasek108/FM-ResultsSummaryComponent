@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Pasek108/ResultsSummaryComponent/](https://github.com/Pasek108/ResultsSummaryComponent/)
-- Live Site URL: [https://pasek108.github.io/ResultsSummaryComponent/](https://pasek108.github.io/ResultsSummaryComponent/)
+- Solution URL: [https://github.com/Pasek108/FM-ResultsSummaryComponent/](https://github.com/Pasek108/FM-ResultsSummaryComponent/)
+- Live Site URL: [https://pasek108.github.io/FM-ResultsSummaryComponent/](https://pasek108.github.io/FM-ResultsSummaryComponent/)
 
 ### Built with
 
