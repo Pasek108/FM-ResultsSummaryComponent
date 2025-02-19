@@ -95,7 +95,7 @@ Page has 4 points categories: reaction, memory, verbal, visual and total points.
 
 ## Performance
 > [!WARNING]  
-> The "Best Practices" score is lower because of the design's font size.
+> The "Accessbility" score is lower because of the design's color contrast.
 
 ### Desktop
 ![desktop performance](/_for_readme/desktop-performance.png)
