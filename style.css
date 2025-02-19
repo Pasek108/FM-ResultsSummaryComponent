@@ -16,6 +16,7 @@ body {
   min-height: 100vh;
   min-width: 100vw;
   color: hsl(224, 30%, 27%);
+  background-color: hsl(221, 100%, 96%);
 }
 
 h2 {
@@ -160,7 +161,7 @@ button {
 }
 
 button:hover {
-    background: linear-gradient(0deg, hsl(241, 81%, 54%) 0%, hsl(252, 100%, 67%) 100%);
+  background: linear-gradient(0deg, hsl(241, 81%, 54%) 0%, hsl(252, 100%, 67%) 100%);
 }
 
 /* ---------------------- footer ---------------------- */
@@ -179,6 +180,10 @@ button:hover {
 }
 
 @media only screen and (max-width: 750px) {
+  body {
+    justify-content: flex-start !important;
+  }
+
   .results {
     flex-direction: column;
     width: 100%;
@@ -192,9 +197,5 @@ button:hover {
     margin-left: 0;
     border-top-right-radius: 0;
     border-top-left-radius: 0;
-  }
-
-  .attribution {
-    position: static;
   }
 }
